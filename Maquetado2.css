@@ -1,0 +1,64 @@
+body{
+    font-family:Arial;
+}
+header{
+    background-color:#797ce0;
+    display:flex;
+    width:900px;
+    height:150px;
+    padding:5px;
+    justify-content:space-between;
+    border:5px solid black;
+}
+
+.banner{
+    background-color:white;
+    width:650px;
+    text-align:center;
+    padding-top:3%;
+}
+
+.logo{
+    background-color:white;
+    width:245px;
+    text-align:center;
+    padding-top:5%;
+}
+
+nav{
+    width:910px;
+    background-color:#36ed22;
+    height:50px;
+    border:5px solid black;
+}
+
+main{
+    background-color:#efa8e2;
+    width:900px;
+    height:320px;
+    padding:5px;
+    display:flex;
+    justify-content:space-between;
+    border:5px solid black;
+}
+
+.article{
+    background-color:white;
+    width:620px;
+    text-align:center;
+    padding-top:15%;
+}
+
+.aside{
+    background-color:white;
+    width:275px;
+    text-align:center;
+    padding-top:15%;
+}
+
+footer{
+    width:910px;
+    background-color:#ebe870;
+    height:50px;
+    border:5px solid black;
+}
